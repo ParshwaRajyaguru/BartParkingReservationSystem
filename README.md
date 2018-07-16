@@ -1,4 +1,3 @@
-"# BartParkingReservationSystem" 
 Technologies: ReactJS, Spring Boot, MySQL, Maven, Jason, Tomcat Server, REST API, JDBC Template, HTML, Bootstrap
 
 Build Back-end API with Spring Boot REST API and MySQL database. 
